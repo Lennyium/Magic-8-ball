@@ -10,7 +10,7 @@ A simple and fun command-line Python program that mimics the classic Magic 8 Bal
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- Python 3.13.3
 
 ## 🚀 How to Run
 
