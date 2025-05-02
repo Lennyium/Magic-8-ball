@@ -18,4 +18,4 @@ A simple and fun command-line Python program that mimics the classic Magic 8 Bal
 2. Run the Python script:
 
 ```bash
-python magic8ball.py
+python magic8.py
